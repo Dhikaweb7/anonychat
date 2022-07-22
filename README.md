@@ -7,4 +7,4 @@ Laman Kirim Pesan Rahasia atau Anonymous Chat sederhana. Menggunakan bahasa PHP 
 
 
 Info : <br>
-*Untuk me-reply pesan, masuk ke laman <b>replies.php</b>
+Untuk me-reply pesan, masuk ke laman ``replies.php``
