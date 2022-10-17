@@ -6,5 +6,5 @@ Laman Kirim Pesan Rahasia atau Anonymous Chat sederhana. Menggunakan bahasa PHP 
 ![www ubi com - Brave 7_8_2022 10_26_26 AM](https://user-images.githubusercontent.com/103014406/177911280-db1a843d-f7d8-4352-9224-656dc9dcaad8.png)
 
 
-Info : <br>
-Untuk me-reply pesan, masuk ke laman ``replies.php``
+Info : 
+> Untuk me-reply pesan, masuk ke laman ``replies.php``
